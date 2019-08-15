@@ -1,4 +1,7 @@
-# README
+# Ruby on Rails Kitabı
+## Merhaba Uygulaması
+
+Bu depoda RoR kitabımızda,Rails ile Merhaba uygulaması ve Git versiyon kontrol sistemini anlatırken kullandığımız örnek uygulamaya ait dosyalar bulunmaktadır.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
